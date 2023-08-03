@@ -1,4 +1,14 @@
-### Hi there 👋
+[![Hi there, I'm Pieter Jordaan. Thank you for visiting my github profile.](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pieter+Jordaan.;Thank+you+for+visiting+my+profile.)](https://git.io/typing-svg)
+
+My name is Pieter Jordaan. I'm a lead developer at Paqt in Utrecht in the Netherlands. In my spare time I work on the Apie library, which is a
+very ambitious project that centralizes around domain objects. It's still a work in progress and I put a lot of spare time hours on it.
+
+# 🌩️ A quick introduction
+As other hobbies: I play videogames, playing guitar and cycling. I have a wife and 4 children that also require my attention.
+<a href="https://bmc.link/apie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+---
+
 
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
