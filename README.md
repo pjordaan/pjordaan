@@ -55,7 +55,9 @@ very ambitious project that centralizes around domain objects. It's still a work
 </p>
 
 # Latest Blog posts
-<!-- APIEBLOG:START --> <!-- APIEBLOG:END -->
+<!-- APIEBLOG:START -->
+- [Starting the APIE project.](https://apie-lib.blogspot.com/2023/08/starting-apie-project.html)
+<!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
