@@ -54,6 +54,8 @@ very ambitious project that centralizes around domain objects. It's still a work
   <img style="padding:5px;" align="center" alt="XML" width="35px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"/>
 </p>
 
+# Latest Blog posts
+<!-- APIEBLOG:START --> <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
