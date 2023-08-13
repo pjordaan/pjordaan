@@ -56,6 +56,7 @@ very ambitious project that centralizes around domain objects. It's still a work
 
 # Latest Blog posts
 <!-- APIEBLOG:START -->
+- [Writing a library for Symfony and Laravel at the same time.](https://apie-lib.blogspot.com/2023/08/writing-library-for-symfony-and-laravel.html)
 - [Date value objects](https://apie-lib.blogspot.com/2023/08/date-value-objects.html)
 - [Starting the APIE project.](https://apie-lib.blogspot.com/2023/08/starting-apie-project.html)
 <!-- APIEBLOG:END -->
