@@ -56,11 +56,11 @@ very ambitious project that centralizes around domain objects. It's still a work
 
 # Latest Blog posts
 <!-- APIEBLOG:START -->
+- [How integration tests can prevent you from regressions](https://apie-lib.blogspot.com/2023/10/how-integration-tests-can-prevent-you.html)
 - [The value of value objects](https://apie-lib.blogspot.com/2023/10/the-value-of-value-objects.html)
 - [Apie sneak preview](https://apie-lib.blogspot.com/2023/10/apie-sneak-preview.html)
 - [Password value objects](https://apie-lib.blogspot.com/2023/10/password-value-objects.html)
 - [The silly Laravel versus Symfony articles](https://apie-lib.blogspot.com/2023/10/the-silly-laravel-versus-symfony.html)
-- [Dealing with 2FA](https://apie-lib.blogspot.com/2023/10/dealing-with-2fa.html)
 <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
