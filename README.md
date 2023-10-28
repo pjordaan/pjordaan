@@ -17,6 +17,7 @@ very ambitious project that centralizes around domain objects. It's still a work
 
 # Apie library
 In my spare time I work on the Apie library. Here is a sneak preview:
+
 [![Apie sneak preview](https://img.youtube.com/vi/v1_EaU9YLaM/0.jpg)](https://www.youtube.com/watch?v=v1_EaU9YLaM "Apie sneak preview")
 
 # Languages/frameworks/tools
