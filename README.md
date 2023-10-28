@@ -15,6 +15,10 @@ very ambitious project that centralizes around domain objects. It's still a work
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pieter-jordaan-4b7654b)
 ---
 
+# Apie library
+In my spare time I work on the Apie library. Here is a sneak preview:
+[![Apie sneak preview](https://img.youtube.com/vi/v1_EaU9YLaM/0.jpg)](https://www.youtube.com/watch?v=v1_EaU9YLaM "Apie sneak preview")
+
 # Languages/frameworks/tools
 <p float="left">
     <img style="padding:5px;" align="center" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/>
