@@ -61,11 +61,11 @@ In my spare time I work on the Apie library. Here is a sneak preview:
 
 # Latest Blog posts
 <!-- APIEBLOG:START -->
+- [Writing your own phpstan rules](https://apie-lib.blogspot.com/2023/11/writing-your-own-phpstan-checks.html)
+- [How I made the apie/console package](https://apie-lib.blogspot.com/2023/11/how-i-made-apieconsole-package.html)
 - [Introduction to OpenAPI: Empowering Your REST API](https://apie-lib.blogspot.com/2023/11/introduction-to-openapi-empowering-your.html)
 - [How to avoid bulky data providers in phpunit](https://apie-lib.blogspot.com/2023/11/how-to-avoid-bulky-data-providers-in.html)
 - [The basics of programming AI: part 1 - A game of chess](https://apie-lib.blogspot.com/2023/11/the-basics-of-programming-ai-part-1.html)
-- [The value of value objects](https://apie-lib.blogspot.com/2023/10/the-value-of-value-objects.html)
-- [Apie sneak preview](https://apie-lib.blogspot.com/2023/10/apie-sneak-preview.html)
 <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
