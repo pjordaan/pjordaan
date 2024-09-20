@@ -61,11 +61,11 @@ In my spare time I work on the Apie library. Here is a sneak preview:
 
 # Latest Blog posts
 <!-- APIEBLOG:START -->
+- [Starting with AI in a web application](https://apie-lib.blogspot.com/2024/09/starting-with-ai-in-web-application.html)
 - [Adding configuration validation to your Laravel package](https://apie-lib.blogspot.com/2024/09/adding-configuration-validation-to-your.html)
 - [File uploads + REST = how to do it properly](https://apie-lib.blogspot.com/2024/08/file-uploads-rest-how-to-do-it-properly.html)
 - [Let&#39;s make a simple application with Apie!](https://apie-lib.blogspot.com/2024/07/lets-make-simple-application-with-apie.html)
 - [TF/IDF: implement a full text search as Google did at start](https://apie-lib.blogspot.com/2024/07/tfidf-implement-full-text-search-as.html)
-- [A monorepo setup: github actions on steroids](https://apie-lib.blogspot.com/2024/06/a-monorepo-setup-github-actions-on.html)
 <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
