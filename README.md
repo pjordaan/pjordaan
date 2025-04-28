@@ -61,11 +61,11 @@ In my spare time I work on the Apie library. Here is a sneak preview:
 
 # Latest Blog posts
 <!-- APIEBLOG:START -->
+- [I used to be a 10x developer in the team, but now I avoid it at all costs](https://apie-lib.blogspot.com/2025/04/i-used-to-be-10x-developer-in-team-but.html)
 - [How I stopped doing MVC in web development](https://apie-lib.blogspot.com/2025/03/how-i-stopped-doing-mvc-in-web.html)
 - [Almost no web developer sees this security vulnerability](https://apie-lib.blogspot.com/2025/03/almost-no-web-developer-sees-security.html)
 - [The danger of tunnel vision](https://apie-lib.blogspot.com/2025/01/the-danger-of-tunnel-vision.html)
 - [Upgrading your library: a neccessary evil!](https://apie-lib.blogspot.com/2024/12/upgrading-your-library-neccessary-evil.html)
-- [The complexity of proper UX of web form](https://apie-lib.blogspot.com/2024/12/the-complexity-of-proper-ux-of-web-form.html)
 <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
