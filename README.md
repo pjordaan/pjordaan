@@ -61,11 +61,11 @@ In my spare time I work on the Apie library. Here is a sneak preview:
 
 # Latest Blog posts
 <!-- APIEBLOG:START -->
+- [Vibe coding your own library](https://apie-lib.blogspot.com/2026/05/vibe-coding-your-own-library.html)
 - [Laravel 13 Attributes: the most divisive Laravel feature](https://apie-lib.blogspot.com/2026/05/laravel-13-attributes-most-divisive.html)
 - [I made a FTP server in PHP](https://apie-lib.blogspot.com/2025/12/i-made-ftp-server-in-php.html)
 - [The steps to make your own public Docker image](https://apie-lib.blogspot.com/2025/09/the-steps-to-make-your-own-public.html)
 - [Extend your AI Agent: adding MCP support is still a wild west effort](https://apie-lib.blogspot.com/2025/08/extend-your-ai-agent-adding-mcp-support.html)
-- [The PHP Reflection API](https://apie-lib.blogspot.com/2025/06/the-php-reflection-api.html)
 <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
