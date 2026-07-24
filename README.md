@@ -1,11 +1,13 @@
 [![Hi there, I'm Pieter Jordaan. Thank you for visiting my github profile.](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Pieter+Jordaan.;Thank+you+for+visiting+my+profile.)](https://git.io/typing-svg)
 
 My name is Pieter Jordaan. I'm a lead developer at Paqt in Utrecht in the Netherlands. In my spare time I work on the Apie library, which is a
-very ambitious project that centralizes around domain objects. It's still a work in progress and I put a lot of spare time hours on it.
+very ambitious project that centralizes around domain objects: you create domain objects and Apie will generate an entire application for you depending on what you need: a admin panel, a REST API, a Graphql endpoint, a cli application or even mount it as a file system or ftp server. It's still a work in progress and I put a lot of spare time on it.
 
 # ⚡ A quick introduction
 - 🔭 I'm currently working on the Apie library.
-- 🌱 I'm currently learning on code generation, AI and Nuxt modules.
+- 🌱 I'm currently learning on code generation and, AI.
+- 💬 I gave a tech talk at [the DPC 2026](https://phpconference.nl/session/file-uploads-and-rest/)
+- 💬 I can give [tech talks for meetups or conferences](https://sessionize.com/pieter-jordaan/)
 - 🎸 In my spare time I play guitar fingerstyle.
 - 🚴 In my spare time I love to cycle.
 - 🎮 In my spare time I play lots of videogames, mostly Nintendo games.
@@ -16,7 +18,9 @@ very ambitious project that centralizes around domain objects. It's still a work
 ---
 
 # Apie library
-In my spare time I work on the Apie library. Here is a sneak preview:
+In my spare time I work on the Apie library. I make it as hobby but also for learning new techniques and engineering. I do think it has potential to become a new way of developing applications (with or without AI). I have [a blog](https://apie-lib.blogspot.com) about things I learned from working on it. If you are interested, you can join me in working on it.
+
+Here is a sneak preview:
 
 [![Apie sneak preview](https://img.youtube.com/vi/v1_EaU9YLaM/0.jpg)](https://www.youtube.com/watch?v=v1_EaU9YLaM "Apie sneak preview")
 
@@ -59,7 +63,7 @@ In my spare time I work on the Apie library. Here is a sneak preview:
   <img style="padding:5px;" align="center" alt="XML" width="35px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"/>
 </p>
 
-# Latest Blog posts
+# My latest Blog posts
 <!-- APIEBLOG:START -->
 - [DDD and multi-language: how to handle them?](https://apie-lib.blogspot.com/2026/06/ddd-and-languages-good-strategy.html)
 - [Vibe coding your own library](https://apie-lib.blogspot.com/2026/05/vibe-coding-your-own-library.html)
