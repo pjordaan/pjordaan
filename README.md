@@ -65,11 +65,11 @@ Here is a sneak preview:
 
 # My latest Blog posts
 <!-- APIEBLOG:START -->
+- [Playing with PHP 8.6 Duration class](https://apie-lib.blogspot.com/2026/08/playing-with-php-86-duration-class.html)
 - [DDD and multi-language: how to handle them?](https://apie-lib.blogspot.com/2026/06/ddd-and-languages-good-strategy.html)
 - [Vibe coding your own library](https://apie-lib.blogspot.com/2026/05/vibe-coding-your-own-library.html)
 - [Laravel 13 Attributes: the most divisive Laravel feature](https://apie-lib.blogspot.com/2026/05/laravel-13-attributes-most-divisive.html)
 - [I made a FTP server in PHP](https://apie-lib.blogspot.com/2025/12/i-made-ftp-server-in-php.html)
-- [The steps to make your own public Docker image](https://apie-lib.blogspot.com/2025/09/the-steps-to-make-your-own-public.html)
 <!-- APIEBLOG:END -->
 <!--
 **pjordaan/pjordaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
